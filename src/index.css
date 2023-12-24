@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+input {
+    width: 60%;
+    outline: none;
+    border: 1px solid #9d957e;
+    border-radius: 5px;
+}
